@@ -1,0 +1,20 @@
+
+.header {
+  padding-top: 10px;
+  display: flex;
+    justify-content: space-between;
+    background-color: rgb(246, 239, 247);
+ 
+   
+}
+.header a {
+  text-decoration: none;
+  color: 852fb6;
+  padding-right: 20px;
+}
+.header nav {
+  padding-top: 20px;
+}
+.logo img {
+  width: 100px;
+}

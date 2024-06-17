@@ -1,19 +1,8 @@
+.App {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 1200px;
+}
 
-.header {
-  padding-top: 20px;
-  display: flex;
-    justify-content: space-between;
-   
-}
-.header a {
-  text-decoration: none;
-  color: 852fb6;
-  padding-right: 20px;
-}
-.logo img {
-  width: 50px;
-  padding-left: 20px;
-}
-.content { 
-  background-color: chocolate;
-}
+
+
